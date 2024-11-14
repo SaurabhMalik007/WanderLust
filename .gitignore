@@ -1,0 +1,43 @@
+# Node.js dependencies
+/node_modules/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+/client/build/
+/server/build/
+
+# Dependency directories (some build tools might create these)
+jspm_packages/
+
+# dotenv environment variables file
+.env
+
+# IDE/editor directories
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Backup files
+*.bak
+*.swp
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Miscellaneous
+*.tgz
